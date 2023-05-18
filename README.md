@@ -1,6 +1,6 @@
 # iOS Netflix Clone App
 
-This repository contains the code for my Netflix Clone iOS application. This project was developed for educational purposes and does not have any commercial intent.
+This repository contains the code for my Netflix Clone iOS application. This project was developed for educational purposes and does not have any commercial intent.  
 
 ## Description
 
@@ -27,4 +27,10 @@ This Netflix Clone application is a simplified version of the actual Netflix app
 ## Installation and Usage
 
 The project is set up to be run in Xcode. Clone the repository and open the `.xcodeproj` or `.xcworkspace` file in Xcode. Then, press the Run button or `Cmd + R` to build and run the project.
+
+## Credits
+This project was developed by following Amir Hossam's Netflix Clone tutorial for iOS. Any similarities between this project and other projects available on the web are likely due to the use of this tutorial. The tutorial was extremely helpful throughout the process, and all credit for the original concept and general structure goes to them.
+
+## Contact
+For any inquiries, please reach out to me at amirarailym1449@gmail.com
 
